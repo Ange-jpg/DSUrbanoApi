@@ -1,0 +1,16 @@
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\bin\Debug\net10.0\DSUrbanoApi.Application.deps.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\bin\Debug\net10.0\DSUrbanoApi.Application.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\bin\Debug\net10.0\DSUrbanoApi.Application.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\bin\Debug\net10.0\DSUrbanoApi.Domain.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\bin\Debug\net10.0\DSUrbanoApi.Domain.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.csproj.AssemblyReference.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.AssemblyInfoInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.AssemblyInfo.cs
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.csproj.CoreCompileInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.sourcelink.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbano.AF7CAB6A.Up2Date
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\refint\DSUrbanoApi.Application.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\DSUrbanoApi.Application.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Application\obj\Debug\net10.0\ref\DSUrbanoApi.Application.dll

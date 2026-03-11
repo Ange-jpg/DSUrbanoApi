@@ -7,18 +7,20 @@ public class ApplicationDbContext : DbContext
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
-    public DbSet<Propietario> Propietarios => Set<Propietario>();
-    // Agregaremos las demás conforme las crees
+    // Representa la tabla en la base de datos
+    public DbSet<Rol> Roles => Set<Rol>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Propietario>(entity =>
+        // Aquí le decimos a EF Core cómo se llaman exactamente las columnas en Postgres
+        modelBuilder.Entity<Rol>(entity =>
         {
-            entity.HasKey(e => e.IdPropietario);
-            entity.ToTable("propietarios"); // Nombre exacto en tu Postgres
+            entity.ToTable("rol"); // Nombre de la tabla en SQL
+            entity.HasKey(e => e.IdRol); // Llave primaria
             
-            // Si los nombres en la DB son diferentes a la clase, se mapean aquí:
-            entity.Property(e => e.NombrePropietario).HasColumnName("propietario");
+            // Mapeo de columnas (C# -> PostgreSQL)
+            entity.Property(e => e.IdRol).HasColumnName("id_rol");
+            entity.Property(e => e.NombreRol).HasColumnName("rol");
         });
     }
 }

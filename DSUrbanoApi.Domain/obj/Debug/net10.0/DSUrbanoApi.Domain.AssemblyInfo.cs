@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSUrbanoApi.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beae2cf99c645c4dd74b6b672830a29261d5e353")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89feaaa86df526ba7f1f31b52306c58f5fdc171b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSUrbanoApi.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSUrbanoApi.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,16 @@
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\bin\Debug\net10.0\DSUrbanoApi.Infrastructure.deps.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\bin\Debug\net10.0\DSUrbanoApi.Infrastructure.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\bin\Debug\net10.0\DSUrbanoApi.Infrastructure.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\bin\Debug\net10.0\DSUrbanoApi.Domain.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\bin\Debug\net10.0\DSUrbanoApi.Domain.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.AssemblyInfo.cs
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.sourcelink.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbano.D88FBF3F.Up2Date
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\refint\DSUrbanoApi.Infrastructure.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\DSUrbanoApi.Infrastructure.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Infrastructure\obj\Debug\net10.0\ref\DSUrbanoApi.Infrastructure.dll

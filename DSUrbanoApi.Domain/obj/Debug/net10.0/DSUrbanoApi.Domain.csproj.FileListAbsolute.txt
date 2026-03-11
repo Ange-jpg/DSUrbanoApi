@@ -1,0 +1,12 @@
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.AssemblyInfoInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.AssemblyInfo.cs
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.sourcelink.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\bin\Debug\net10.0\DSUrbanoApi.Domain.deps.json
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\bin\Debug\net10.0\DSUrbanoApi.Domain.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\bin\Debug\net10.0\DSUrbanoApi.Domain.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\refint\DSUrbanoApi.Domain.dll
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\DSUrbanoApi.Domain.pdb
+C:\Desarrollos\DSUrbanoApi\DSUrbanoApi.Domain\obj\Debug\net10.0\ref\DSUrbanoApi.Domain.dll
