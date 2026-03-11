@@ -24,7 +24,6 @@ CREATE TABLE IF NOT EXISTS public.tipo_uso (
     PRIMARY KEY (id_tipo_uso)
 );
 
--- 2. TABLAS PRINCIPALES
 CREATE TABLE IF NOT EXISTS public.usuarios (
     id_usuario integer NOT NULL,
     nombre character varying(120) NOT NULL,
@@ -55,11 +54,12 @@ CREATE TABLE IF NOT EXISTS public.propietarios (
     inscripcion integer NOT NULL,
     seccion character varying(50) NOT NULL,
     fecha_escritura date NOT NULL,
-    id_estado_fk integer NOT NULL, -- Relación por ID
+    id_estado_fk integer NOT NULL,
+    id_usuario_fk integer NOT NULL,
     PRIMARY KEY (id_propietario),
-    CONSTRAINT fk_estado_propietario FOREIGN KEY (id_estado_fk) REFERENCES public.cat_estado (id_estado)
+    CONSTRAINT fk_estado_propietario FOREIGN KEY (id_estado_fk) REFERENCES public.cat_estado (id_estado),
+    CONSTRAINT fk_usuario_propietario FOREIGN KEY (id_usuario_fk) REFERENCES public.usuarios (id_usuario)
 );
-
 
 CREATE TABLE IF NOT EXISTS public.topografia (
     id_topografia integer NOT NULL,
@@ -68,11 +68,11 @@ CREATE TABLE IF NOT EXISTS public.topografia (
     uso_espacio character varying(120) NOT NULL,
     frente character varying(120) NOT NULL,
     restriccion character varying(50) NOT NULL,
-    id_revisor_fk integer NOT NULL, -- Relación por ID con usuarios
+    id_revisor_fk integer NOT NULL,
     revisado_con character varying(120) NOT NULL,
     fecha_captura date NOT NULL,
     id_propietario_fk integer NOT NULL,
-    id_cat_topologia_fk integer NOT NULL, -- Relación por ID con catálogo
+    id_cat_topologia_fk integer NOT NULL,
     PRIMARY KEY (id_topografia),
     CONSTRAINT fk_revisor_topo FOREIGN KEY (id_revisor_fk) REFERENCES public.usuarios (id_usuario),
     CONSTRAINT fk_propietario_topo FOREIGN KEY (id_propietario_fk) REFERENCES public.propietarios (id_propietario),
@@ -87,7 +87,7 @@ CREATE TABLE IF NOT EXISTS public.costos (
     total double precision NOT NULL,
     fecha_oficio date NOT NULL,
     id_topografia_fk integer NOT NULL,
-    id_tipo_uso_fk integer NOT NULL, -- Relación por ID
+    id_tipo_uso_fk integer NOT NULL,
     PRIMARY KEY (id_costos),
     CONSTRAINT fk_topo_costos FOREIGN KEY (id_topografia_fk) REFERENCES public.topografia (id_topografia),
     CONSTRAINT fk_tipo_uso_costos FOREIGN KEY (id_tipo_uso_fk) REFERENCES public.tipo_uso (id_tipo_uso)
